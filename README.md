@@ -70,6 +70,7 @@
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) – On-chain trust scoring for AI agent wallets on Solana. MCP server (`score_agent`, `preflight_check`) for verifying agent wallet identity before x402 micropayment-gated API access. [MCP](https://intel.twzrd.xyz/mcp)
 
 ## Format
 
